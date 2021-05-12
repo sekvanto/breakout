@@ -1,1 +1,3 @@
-This is the breakout game. Here you can read source code or download binary
+Classical breakout with some sound effects
+
+![breakout](assets/breakout.gif)
